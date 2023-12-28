@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Surendranagar",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-10-30T07:40:27.792Z",
+      "notes": "majo aai gyo",
+      "position": {
+        "lat": "22.79643932091949",
+        "lng": "71.76269531250001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Delhi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-10-30T11:37:17.747Z",
+      "notes": "BEAUYT\n",
+      "position": {
+        "lat": "28.57487404744697",
+        "lng": "76.99218750000001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Ahmedabad",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-10-30T13:56:23.227Z",
+      "notes": "NEW",
+      "position": {
+        "lat": "23.02918734674459",
+        "lng": "72.60864257812501"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Gondal",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-11-06T13:13:26.860Z",
+      "notes": "",
+      "position": {
+        "lat": "21.922663209325922",
+        "lng": "70.90576171875001"
+      },
+      "id": 98443202
+    }
+  ]
+}
